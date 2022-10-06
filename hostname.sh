@@ -1,2 +1,3 @@
 hostname
 date
+df -h
